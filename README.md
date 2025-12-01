@@ -1,6 +1,15 @@
 
 📘 README.md
 # Attendance & Leave Management System (C Program)
+✅ Abstract
+The Attendance and Leave Management System is a C-based application designed to manage employee attendance records efficiently using file handling. The system allows users to add new employees, mark their daily attendance as present or absent, apply leave days, and display complete employee records. All information is stored permanently in a binary file (employees.dat), making the data accessible even after the program closes. The program uses structures to store employee details such as ID, name, present days, absent days, and leave days. Through functions like addEmployee(), markAttendance(), applyLeave(), and displayEmployees(), the system ensures modularity, easy data retrieval, and updates. This project demonstrates practical implementation of file handling, structure management, and menu-driven programming in C.
+
+
+
+
+
+No file chosenNo file chosen
+ChatGPT can make mistakes. Check important info. See Cookie Preferences.
 
 This project is a console-based Attendance and Leave Management System written in C.  
 It allows administrators to manage employee information, record attendance, and process leave requests.
